@@ -1,6 +1,5 @@
 # Resume-Builder
 
-
  sections = {
     basicInfo: "Basic Info",
     workExp: "Work Experience",
